@@ -1,0 +1,32 @@
+{
+  "name": "h-comic",
+  "version": "1.1.2",
+  "description": "healhy",
+  "main": "RandomHC.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cheerio": "^1.0.0-rc.1",
+    "iconv-lite": "^0.4.19",
+    "request": "^2.83.0",
+    "superagent": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node RandomHC.js"
+  },
+  "author": "resjay",
+  "license": "ISC",
+  "keywords": [
+    "hcomic",
+    "Hcomic",
+    "prohub"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResJay/HealthyManAndComic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ResJay/HealthyManAndComic/issues"
+  },
+  "homepage": "https://github.com/ResJay/HealthyManAndComic#readme"
+}
